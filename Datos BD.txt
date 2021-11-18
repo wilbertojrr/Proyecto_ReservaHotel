@@ -1,0 +1,7 @@
+Datos BD
+
+Base de datos: tpofinal
+Usuario: root
+Contraseña: 
+url: jdbc:mysql://localhost:3306/tpofinal?serverTimezone=UTC
+Puerto: 3306
